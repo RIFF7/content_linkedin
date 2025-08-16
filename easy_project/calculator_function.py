@@ -24,9 +24,9 @@ def calculate():
         else:
             hasil = angka1 / angka2
     else:
-        print("err")
+        print("Error: Inputan yang masuk tidak sesuai!")
     
     if hasil is not None:
-        print(f"hasil > {hasil}")
+        print(f"Hasil perhitungan: {hasil}")
 
 calculate()
