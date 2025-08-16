@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Syarifudin Jaelani</h1>
 
+<p> Disini saya akan membuat project dengan mengggunakan bahasa pemrograman python dari yang sangat mudah dan sampai ditingkat yang sangat menguras fikiran 😂 <br> Saya akan mencoba mengisi waktu liburan saya dengan membuat project yang sudah saya susun semata-mata untuk bahan belajar saya sendiri dan menjadi portofolio yang bisa saya tampilkan pada public dan mungkin bisa berguna juga bagi mereka yang sedang belajar juga 😆
+
 <h3>🚀 Proyek Tingkat Pemula (Dasar-dasar)</h3>
 
 <p>Proyek-proyek ini bertujuan untuk menguatkan pemahaman kita tentang sintaks dasar, variabel, tipe data, perulangan, dan percabangan.
